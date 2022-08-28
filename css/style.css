@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: darkorchid;
+}
+section{
+    display: flex;
+    background-color: seashell;
+    margin-bottom: 25px;
+}
+.images-item{
+    width: 100%;
+}
+.container{
+    display: flex; 
+    background-color:bisque;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.containers{
+    display: flex; 
+    background-color:navajowhite;
+    padding-left: 10px;
+    padding-top: 10px;
+   
+}
+img{
+    width: 50%;
+}
+.fa-star, .fa-star-half-stroke{
+    color: gold;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    padding: 25px;
+  margin-top: 30px;
+}
+.images-01{
+    border: 1px solid darkslategray;
+}
